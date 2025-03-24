@@ -17,4 +17,4 @@ Key Features:
 
 🛠 Tools Used: Power BI, SQL, Data Visualization
 
-Link: https://app.powerbi.com/view?r=eyJrIjoiOWI1YzZhNDYtNjQyZS00MDRhLTljYjYtNmZmMmMwODZkNjc4IiwidCI6ImJkYjJmYTg3LTI0MjItNGY3Ni1iNmFkLWJmOGNlNTM2NzVmMCJ9
+Link: http://tiny.cc/visa-dashboard
