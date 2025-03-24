@@ -16,3 +16,5 @@ Key Features:
 ✔ Dynamic Filters – Allows selection by Visa Type, Country, Status, and Year.
 
 🛠 Tools Used: Power BI, SQL, Data Visualization
+
+Link: https://app.powerbi.com/view?r=eyJrIjoiOWI1YzZhNDYtNjQyZS00MDRhLTljYjYtNmZmMmMwODZkNjc4IiwidCI6ImJkYjJmYTg3LTI0MjItNGY3Ni1iNmFkLWJmOGNlNTM2NzVmMCJ9
