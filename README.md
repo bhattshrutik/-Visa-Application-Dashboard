@@ -12,10 +12,13 @@
 ✔ **Approval Rate by Visa Type** – Compares visa approval rates across categories.  
 ✔ **Dynamic Filters** – Allows selection by Visa Type, Country, Status, and Year.  
 
-## 🛠 Tech Stack:  
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-- ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
-- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge)  
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge" />
+</p>
+
 
 ## 📌 Live Demo:  
 🔗 **[View Dashboard](http://tiny.cc/visa-dashboard)**  
